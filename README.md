@@ -28,6 +28,6 @@ A atividade consiste nos seguintes fluxogramas:
   <img width="429" height="485" alt="image" src="https://github.com/user-attachments/assets/cb7624fb-1756-4600-87fc-0d4c03dc3f84" />
 
 5.  **Exercício :** Cálculo de média aritmética entre duas notas.
-10.  <img width="302" height="485" alt="image" src="https://github.com/user-attachments/assets/092e274e-7bd6-450a-8c0d-95e018624f41" />
+  <img width="302" height="485" alt="image" src="https://github.com/user-attachments/assets/092e274e-7bd6-450a-8c0d-95e018624f41" />
 
 
