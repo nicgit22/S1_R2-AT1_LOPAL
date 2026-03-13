@@ -15,7 +15,7 @@ Este repositório contém a resolução da **Atividade 01** da disciplina de **L
 ## 📂 Exercícios Resolvidos
 A atividade consiste nos seguintes fluxogramas:
 
-1.  **Exercício :** Leitura de nome e saudação personalizada ("Olá, [pessoa]!").
+1.  **Exercício :** Leitura de nome e saudação personalizada ("Olá, nome").
   <img width="307" height="396" alt="image" src="https://github.com/user-attachments/assets/db326c68-f4d1-4570-b1db-8b17c1aceb15" />
 
 2.  **Exercício :** Leitura de dois números e exibição da soma.
