@@ -10,7 +10,7 @@ Este repositório contém a resolução da **Atividade 01** da disciplina de **L
 
 ## 🛠️ Ferramentas Utilizadas
 * **Flowgorithm** (Criação dos fluxogramas)
-* **Git / Github** (Controlo de versão e portfólio)
+* **Git / Github** (Controle de versão e portfólio)
 
 ## 📂 Exercícios Resolvidos
 A atividade consiste nos seguintes fluxogramas:
